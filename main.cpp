@@ -5,10 +5,10 @@ using namespace std;
 
 int main(void)
 {
-    Car car1("액센트");
-    Car car2("아반테");
-    Car car3("소나타");
-    Car car4("그랜져");
+    Car car1("Regera");
+    Car car2("Agera");
+    Car car3("Gemera");
+    Car car4("CCXRjsh");
     car1.set_power();
     car1.set_speed(true);
     cout << car1.get_speed() << endl;
